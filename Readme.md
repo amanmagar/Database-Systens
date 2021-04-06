@@ -3,7 +3,7 @@
 Windows admin part:
 SELECT NAME 
 
-PHYSICAL SCHEEMA: which is created by microsoft like logs
+PHYSICAL SCHEMA: which is created by company like logs
 LOGICAL SCHEMA: which is created by us 
 
 ## To show the name of databases created in the SQL server
