@@ -16,3 +16,13 @@ CREATE DATABASE db_name
 CREATE TABLE_NAME (
     FIELD_NAME DATA_TYPE IDENTITY(STARTING FROM, INCREASE BY) PRIMARY KEY,
 )
+
+## To insert the data into the database
+INSERT INTO tablename (col1, col2) values (column1data, column2data )
+
+## To update the data into the database
+UPDATE INTO tablename SET (UpdData) where Col = value
+
+## To delete the data from the database
+DELETE FROM tablename where col = value; 
+
