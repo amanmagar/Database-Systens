@@ -26,6 +26,6 @@ UPDATE INTO tablename SET (UpdData) where Col = value
 ## To delete the data from the database
 DELETE FROM tablename where col = value;
 
-## To add new column to the alreadu working database
+## To add new column to the already working database
 ALTER TABLE tablename colname data type
 
